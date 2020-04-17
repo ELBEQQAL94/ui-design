@@ -71,7 +71,8 @@ a {
   justify-content: center;
 }
 
-.makeStyles-drawerOpen-7 {
+.makeStyles-drawerOpen-7,
+.jss7 {
   width: 170px !important;
 }
 
